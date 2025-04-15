@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+~$*.xlsx
+
+# Ignore big data or output folders
+data/
+figures/
+cache/
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
